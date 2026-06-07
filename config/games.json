@@ -385,11 +385,6 @@
     "title": "Learn To Fly"
   },
   {
-    "link": "projects/mario/index.html",
-    "imgSrc": "projects/mario/Theme/Mario.gif",
-    "title": "Mario"
-  },
-  {
     "link": "projects/matrixrampage/index.html",
     "imgSrc": "projects/matrixrampage/matrixrampage.jpg",
     "title": "Matrix Rampage"
@@ -535,11 +530,6 @@
     "title": "Slope"
   },
   {
-    "link": "projects/sm64/index.html",
-    "imgSrc": "projects/sm64/logo.png",
-    "title": "Super Mario 64"
-  },
-  {
     "link": "projects/smashkarts/index.html",
     "imgSrc": "projects/smashkarts/images/icon-512.png",
     "title": "Smash Carts"
@@ -603,6 +593,16 @@
     "link": "projects/superhot/index.html",
     "imgSrc": "projects/superhot/hot.jpg",
     "title": "Superhot"
+  },
+  {
+    "link": "projects/sm64/index.html",
+    "imgSrc": "projects/sm64/logo.png",
+    "title": "Super Mario 64"
+  },
+  {
+    "link": "projects/mario/index.html",
+    "imgSrc": "projects/mario/Theme/Mario.gif",
+    "title": "Super Mario Bros. Fullscreen"
   },
   {
     "link": "projects/swerve/index.html",
