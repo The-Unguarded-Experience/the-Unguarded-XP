@@ -10,7 +10,9 @@ Also Credit to tw31122007 for some of html games.
 These games might be added soon.
 
 -House of Hazards
--Subway Surfers
+
+-Subway Surfers (added)
+
 -Crossy Road
 
 # Known Issues
