@@ -300,11 +300,6 @@
     "title": "Gimme the Airpod"
   },
   {
-    "link": "projects/glass-city/index.html",
-    "imgSrc": "projects/glass-city/image.png",
-    "title": "Glass City"
-  },
-  {
     "link": "projects/google-snake/index.html",
     "imgSrc": "projects/google-snake/img/snake.png",
     "title": "Google Snake"
@@ -588,6 +583,11 @@
     "link": "projects/stormthehouse2/index.html",
     "imgSrc": "projects/stormthehouse2/stormthehouse2.jpg",
     "title": "Storm The House 2"
+  },
+  {
+    "link": "projects/subway-surfers-ny/index.html",
+    "imgSrc":"projects/subway-surfers-ny/NewYorkIcon.png",
+    "title": "Subway Surfers"
   },
   {
     "link": "projects/superhot/index.html",
