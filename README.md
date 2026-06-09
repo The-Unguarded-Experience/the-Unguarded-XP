@@ -9,13 +9,22 @@ Credit to 3kh0 for the original repo and the games
 
 Some games have been added to the website.
 
--Subway Surfers (New York)
+-Subway Surfers(New York) 
+-Drive Mad
 
 # Removed Games
 
-Unfortunately, the website ran poorly after adding just one more game, so I removed uninteresting games to maintain smooth loading times.
+Unfortunately, the website runs poorly after adding too many games, so I removed some uninteresting games to maintain smooth loading times.
 
 -Glass City
+
+# Planned Games
+
+Games that might be added later will be shown here.
+
+- Monkey Mart
+- House of Hazards
+
 
 # Known Issues
 
