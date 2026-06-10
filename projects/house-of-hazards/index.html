@@ -7,8 +7,8 @@
     <link rel="shortcut icon" href="TemplateData/favicon.ico" />
     <link rel="stylesheet" href="TemplateData/style.css" />
     <script src="TemplateData/UnityProgress.js"></script>
-    <script src="/Build/UnityLoader.js"></script>
-    <script defer src="/js/unity-mod.js" type="text/javascript"></script>
+    <script src="/projects/house-of-hazards/build/UnityLoader.js"></script>
+    <script defer src="projects/house-of-hazards/js/unity-mod.js" type="text/javascript"></script>
     <script>
       var gameInstance = null;
 
@@ -16,7 +16,7 @@
         if (gameInstance && typeof gameInstance.SetFullscreen === "function") {
           gameInstance.SetFullscreen(1);
         } else {
-          console.warn("House of Hazards is still loading. Please wait before going fullscreen.");
+          console.warn("Unfortunately, House of Hazards is still loading. You may want to wait before going fullscreen.");
         }
       }
     </script>
@@ -29,7 +29,7 @@
         if (typeof UnityLoader !== 'undefined') {
           gameInstance = UnityLoader.instantiate("gameContainer", "Build/HouseOfHazardsTwoPlayerGames.json", { onProgress: UnityProgress });
         } else {
-          console.error("Critical Error: UnityLoader.js failed to load. Verify that Build/UnityLoader.js is online and paths are correct.");
+          console.error("Critical Error: UnityLoader.js failed to load. Verify that build/UnityLoader.js is online and paths are correct.");
         }
       </script>
 
