@@ -12,6 +12,8 @@ Some games have been added to the website.
 
 - Subway Surfers (New York)
 - Drive Mad
+- House of Hazards
+
 
 # Removed Games
 
@@ -24,13 +26,15 @@ Unfortunately, the website runs poorly after adding too many games, so we remove
 Games that might be added later will be shown here.
 
 - Monkey Mart
-- House of Hazards (Note: while this is technically on here, it doesn't actually load properly.)
 
 # Known Issues
 
 - Super Mario 64 doesn't play audio. Tested on Windows 11, Firefox with Ublock Origin.
 - Error screen does not take you to the homepage.
-- House of Hazards doesn't load properly. This issue is currently under investigation.
+
+# Resolved Issues
+
+- House of Hazards doesn't load properly. This issue has been fixed by editing the index.html and removing the script that tries to use main.js (which doesn't exist)
 
 
 # I want to fork your repository!
