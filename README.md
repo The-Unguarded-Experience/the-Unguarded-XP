@@ -14,7 +14,6 @@ Some games have been added to the website.
 - Drive Mad
 - House of Hazards
 
-
 # Removed Games
 
 Unfortunately, the website runs poorly after adding too many games, so we removed some uninteresting games to maintain smooth loading times.
@@ -25,7 +24,8 @@ Unfortunately, the website runs poorly after adding too many games, so we remove
 
 Games that might be added later will be shown here.
 
-- Monkey Mart
+- Crossy Road
+- Tiny Fishing
 
 # Known Issues
 
