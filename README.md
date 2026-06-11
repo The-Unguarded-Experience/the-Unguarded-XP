@@ -13,6 +13,8 @@ Some games have been added to the website.
 - Subway Surfers (New York)
 - Drive Mad
 - House of Hazards
+- Crossy Road
+- Tiny Fishing
 
 # Removed Games
 
@@ -22,10 +24,9 @@ Unfortunately, the website runs poorly after adding too many games, so we remove
 
 # Planned Games
 
-Games that might be added later will be shown here.
+Games that might be added later will be shown here. If you would like to suggest some: https://forms.gle/jZi8x5VpYTJvkLEk7
 
-- Crossy Road
-- Tiny Fishing
+- BitLife
 
 # Known Issues
 
