@@ -145,6 +145,11 @@
     "title": "Creative Kill Chamber"
   },
   {
+    "link": "projects/crossyroad/index.html",
+    "imgSrc": "projects/crossyroad/crossyroad.png",
+    "title": "Crossy Road"
+  },
+  {
     "link": "projects/csgo-clicker/index.html",
     "imgSrc": "projects/csgo-clicker/images/vanguard.png",
     "title": "CS:GO Clicker"
@@ -663,6 +668,11 @@
     "link": "projects/thisistheonlylevel/index.html",
     "imgSrc": "projects/thisistheonlylevel/thisistheonlylevel.png",
     "title": "This Is The Only Level"
+  },
+  {
+    "link": "projects/tiny-fishing/index.html",
+    "imgSrc": "projects/tiny-fishing/tiny-fishing.png",
+    "title": "Tiny Fishing"
   },
   {
     "link": "projects/tosstheturtle/index.html",
