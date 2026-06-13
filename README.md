@@ -26,12 +26,12 @@ Unfortunately, the website runs poorly after adding too many games, so we remove
 
 Games that might be added later will be shown here. If you would like to suggest some: https://forms.gle/jZi8x5VpYTJvkLEk7
 
-- BitLife
 
 # Known Issues
 
 - Super Mario 64 doesn't play audio. Tested on Windows 11, Firefox with Ublock Origin.
 - Error screen does not take you to the homepage.
+- Minecraft Classic does not seem to work (Firefox + Ublock Origin). However it seems identical to the original 3kh0-lite.
 
 # Resolved Issues
 
