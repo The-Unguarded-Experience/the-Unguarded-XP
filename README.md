@@ -33,6 +33,8 @@ Games that might be added later will be shown here. If you would like to suggest
 - Error screen does not take you to the homepage.
 - Minecraft Classic does not seem to work (Firefox + Ublock Origin). However it seems identical to the original 3kh0-lite.
 
+  Report other issues on Github or email us. Email: unguardedxp@gmail.com
+
 # Resolved Issues
 
 - House of Hazards doesn't load properly. This issue has been fixed by editing the index.html and removing the script that tries to use main.js (which doesn't exist)
