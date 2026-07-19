@@ -430,6 +430,11 @@
     "title": "Missiles"
   },
   {
+    "link": "projects/MonkeyMart/index.html",
+    "imgSrc": "projects/MonkeyMart/bg_loading.png",
+    "title": "Monkey Mart"
+  },
+  {
     "link": "projects/motox3m/index.html",
     "imgSrc": "projects/motox3m/splash.jpg",
     "title": "MotoX3M"
